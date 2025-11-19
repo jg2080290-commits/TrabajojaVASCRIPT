@@ -465,7 +465,11 @@ menu .navbar ul li a:hover {
 .map {
     filter: grayscale(100%)invert(92%)contrast(93%);
     border: 0;
+}
 
+#map{
+    height: 400px;
+    width: 100%;
 }
 
 .footer {
